@@ -5,7 +5,7 @@ using namespace std;
 int main()
 
 {
-    cout << "Hello MugenStudio 2015!" << endl ;
+    cout << "--- ©2015 MugenStudio ---" << endl ;
 
     return 0;
 
